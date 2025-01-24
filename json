@@ -1,0 +1,63 @@
+  <script>
+    const factsData = [
+      {
+        "fact": "Mars is named after the Roman god of war:",
+        "additional_info": "Its reddish hue, reminiscent of blood, led to this association."
+      },
+      {
+        "fact": "Mars has two moons:",
+        "additional_info": "Phobos and Deimos, named after the Greek gods of fear and panic."
+      },
+      {
+        "fact": "A day on Mars is slightly longer than an Earth day:",
+        "additional_info": "It's 24.6 hours long, while a Martian year is 687 Earth days."
+      },
+      {
+        "fact": "Mars has the tallest volcano in the solar system:",
+        "additional_info": "Olympus Mons, a shield volcano, is about 13.6 miles (22 kilometers) high, approximately two and a half times taller than Mount Everest."
+      },
+      {
+        "fact": "Mars experiences massive dust storms:",
+        "additional_info": "They can last for months and cover the entire planet."
+      },
+      {
+        "fact": "Evidence suggests Mars once had liquid water:",
+        "additional_info": "Dried up riverbeds, ancient lake basins, and minerals formed in the presence of water point to a watery past."
+      },
+      {
+        "fact": "Mars has polar ice caps:",
+        "additional_info": "Made mostly of water ice, they grow and shrink with the Martian seasons."
+      },
+      {
+        "fact": "The atmosphere on Mars is very thin:",
+        "additional_info": "Composed mainly of carbon dioxide, it's about 100 times thinner than Earth's atmosphere."
+      },
+      {
+        "fact": "Sunsets on Mars appear blue:",
+        "additional_info": "Due to the way dust scatters light, Martian sunsets have a bluish glow."
+      },
+      {
+        "fact": "Mars experiences seasons like Earth:",
+        "additional_info": "But they are about twice as long due to its longer orbit around the Sun."
+      },
+      {
+        "fact": "The average temperature on Mars is -63 degrees Celsius (-81 degrees Fahrenheit):",
+        "additional_info": "That's pretty chilly!"
+      },
+      {
+        "fact": "You'd be able to jump higher on Mars:",
+        "additional_info": "Its weaker gravity means you could jump about three times higher than on Earth."
+      },
+      {
+        "fact": "Mars is home to the largest canyon system in the solar system:",
+        "additional_info": "Valles Marineris is approximately 2,500 miles (4,000 kilometers) long and up to 7 miles (11 kilometers) deep, much larger than the Grand Canyon."
+      },
+      {
+        "fact": "Scientists believe Mars might have once harbored life:",
+        "additional_info": "The search for past or present life is a key focus of Mars exploration."
+      },
+      {
+        "fact": "Humans plan to send astronauts to Mars in the future:",
+        "additional_info": "Multiple space agencies, including NASA and SpaceX, are working towards this ambitious goal."
+      }
+    
